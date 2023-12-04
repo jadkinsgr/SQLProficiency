@@ -76,7 +76,7 @@ SET column = 'new_value'
 WHERE condition;
 ```
 
-### Joins and Unions
+## Joins and Unions 🔗
 
 ### Inner join
 ```sql
@@ -89,19 +89,6 @@ JOIN table2 ON table1.column = table2.column;
 SELECT column FROM table1
 UNION
 SELECT column FROM table2;
-```
-
-### Updating Data
-```sql
-UPDATE table
-SET column = 'new_value'
-WHERE condition;
-```
-### Updating Data
-```sql
-UPDATE table
-SET column = 'new_value'
-WHERE condition;
 ```
 
 ## Aggregation 📊
@@ -120,7 +107,7 @@ GROUP BY column
 HAVING COUNT(*) > 1;
 ```
 
-## Window Functions
+## Window Functions 🪟
 
 ### Rank and Partition (could also be Row_Number)
 ```sql
@@ -128,7 +115,7 @@ SELECT column, RANK() OVER (PARTITION BY category ORDER BY value DESC) AS rankin
 FROM table;
 ```
 
-## Indexes and Optimization
+## Indexes and Optimization ⚙️
 
 ### Indexing
 ```sql
@@ -165,7 +152,7 @@ END;
 
 ```
 
-### Data Modeling
+### Data Modeling 🛠️
 
 ![Alt text](image.png)
 
