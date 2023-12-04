@@ -4,19 +4,19 @@ Welcome to the Super Modern SQL Proficiency Guide! Whether you're a seasoned SQL
 
 ## Table of Contents 📑
 
-1. [Introduction](#introduction)
-2. [Basic Queries](#basic-queries)
-3. [Advanced Queries](#advanced-queries)
-4. [Data Manipulation](#data-manipulation)
-5. [Joins & Unions](#joins-and-unions)
-6. [Aggregation](#aggregation)
-7. [Window Functions](#window-functions)
-8. [Indexes and Optimization](#indexes-and-optimization)
-9. [Transactions](#transactions)
-10. [Stored Procedures](#stored-procedures)
-11. [Data Modeling](#data-modeling)
-12. [Bonus Tips](#bonus-tips)
-13. [Resources](#resources)
+1. [Introduction](##introduction)
+2. [Basic Queries](##basic-queries)
+3. [Advanced Queries](##advanced-queries)
+4. [Data Manipulation](##data-manipulation)
+5. [Joins & Unions](##joins-and-unions)
+6. [Aggregation](##aggregation)
+7. [Window Functions](##window-functions)
+8. [Indexes and Optimization](##indexes-and-optimization)
+9. [Transactions](##transactions)
+10. [Stored Procedures](##stored-procedures)
+11. [Data Modeling](##data-modeling)
+12. [Bonus Tips](##bonus-tips)
+13. [Resources](resources)
 
 ## Introduction 🌐
 
