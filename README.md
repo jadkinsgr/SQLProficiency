@@ -1,6 +1,6 @@
 # SQL Proficiency 🚀
 
-Welcome to the Super Modern SQL Proficiency Guide! Whether you're a seasoned SQL ninja or just starting your journey, this document will help you level up your SQL game. Let's dive in! 💻
+Welcome to the SQL Proficiency Document! This document serves to illustrate proficiency in the SQL coding lanuage.. Let's dive in! 💻
 
 ## Table of Contents 📑
 
